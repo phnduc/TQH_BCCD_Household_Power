@@ -1,0 +1,7 @@
+mo_hinh,tham_so_tot_nhat,f1_macro_cv
+decision_tree,{'max_depth': None},0.9901314581401417
+decision_tree,{'max_depth': None},0.9901314581401417
+knn,{'model__n_neighbors': 11},0.6512604560829848
+knn,{'model__n_neighbors': 11},0.6512604560829848
+logistic_regression,{'model__C': 10.0},0.9875911610840387
+logistic_regression,{'model__C': 10.0},0.9875911610840387

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Dữ liệu gốc: không đưa vào git (chỉ có script tải). Dữ liệu sạch (data/clean/) > 1 MB nên nộp qua file nén zip
+data/raw/
+data/*.txt
+data/*.csv
+data/*.xlsx
+data/*.zip
+data/clean/*.csv
+
+# Khác
+*.zip
+~$*
+.DS_Store
+Thumbs.db
+
+# Agent reports
+anti-reports/
+anti-missions/

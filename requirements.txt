@@ -1,0 +1,10 @@
+# Các thư viện cốt lõi — tương thích Python 3.9
+# Cập nhật: hạ phiên bản để hỗ trợ Python 3.9 (numpy <= 2.0.2)
+
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.4
+mlxtend==0.23.3
+scipy==1.13.1
+pytest==8.3.5
